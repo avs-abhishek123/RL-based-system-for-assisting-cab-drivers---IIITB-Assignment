@@ -1,4 +1,4 @@
-# RL based system for assisting cab driver - IIITB Assignment
+# RL based system for assisting cab drivers - IIITB Assignment
 
 Developed by:
 1. [Deepa Kushwaha](https://github.com/deepakush)
@@ -28,3 +28,6 @@ Run ***pip install -r requirements.txt*** to install all the dependencies.
 Simply execute the command : ***jupyter notebook*** in your console/terminal to launch the Jupyter code and follow accordingly.
 
 ### Results:
+![1](https://user-images.githubusercontent.com/29462447/92985720-d7db3b80-f4d2-11ea-8852-b5cb410eca03.png)
+![2](https://user-images.githubusercontent.com/29462447/92985721-d9a4ff00-f4d2-11ea-909b-e17904cfdb0a.png)
+
