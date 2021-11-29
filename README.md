@@ -1,4 +1,5 @@
-# RL based system for assisting cab drivers - IIITB Assignment
+# RL based system for assisting cab drivers - IIITB Assignment [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 Developed by:
 1. [Deepa Kushwaha](https://github.com/deepakush)
